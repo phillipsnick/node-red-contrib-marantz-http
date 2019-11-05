@@ -28,7 +28,7 @@
   },
   "homepage": "https://github.com/estbeetoo/node-red-contrib-marantz-http#readme",
   "dependencies": {
-    "marantz-avr": "https://github.com/estbeetoo/marantz-avr",
+    "marantz-avr": "https://github.com/estbeetoo/marantz-avr#77783d00df37d03c7c31066a4470a992ce931e1b",
     "machina": "^1.1.2"
   }
 }
